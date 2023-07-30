@@ -1,10 +1,8 @@
 # Sempervirens Collective Data Science course 2023-24
 
-# BSDS 100: Intro to Data Science with R
+## Paul Zeitz
 
-## James D. Wilson
-
-**Email**: jdwilson4@usfca.edu
+**Email**: zeitzp@usfca.edu
 
 **Class Time**: TR, 9:55 - 11:40 AM in Harney 430
 
